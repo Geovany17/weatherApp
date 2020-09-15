@@ -60,7 +60,7 @@ $(document).ready(function () {
       $("#error-div").hide();
       $("#current-forecast").show();
       $("#five-day-forecast-container").show();
-
+      console.log("response");
       //=================================================
       // Saving The Response_Url Property In Variables
       //=================================================
@@ -170,7 +170,7 @@ $(document).ready(function () {
           var forecastIcon = forecastResults.list[i].weather[0].icon;
 
           //==================================
-          // Pushing Attributes To The li
+          // Pushing Attributes To The list
           //==================================
 
           forecastObj["list"] = {};
