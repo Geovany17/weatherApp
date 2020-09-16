@@ -9,7 +9,7 @@ SO THAT I can plan a trip accordingly
 ### About
 
 This app was made as a homework for Penn LPS bootcamp.
-This is a work daily schedule application, built using HTML, CSS,Javascript,JQuery,JSON,AJAX and the API's from [OpenWeather API](https://openweathermap.org/api) to retrieve weather data for cities.
+This is a Weather Dashboard application, built using HTML, CSS,Javascript,JQuery,JSON,AJAX and the API's from [OpenWeather API](https://openweathermap.org/api) to retrieve weather data for cities.
 
 This project has been deployed to GitHub Pages.
 
