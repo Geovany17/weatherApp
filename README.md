@@ -15,7 +15,7 @@ This project has been deployed to GitHub Pages.
 
 ### Demo for the deployed app
 
-![weatherApp demo](Weather Dashboard.gif)
+![weatherApp demo](https://github.com/Geovany17/weatherApp/blob/master/assets/Weather%20Dashboard.gif)
 
 - [GitHub Repository](https://github.com/Geovany17/weatherApp)
 - [Deployed GitHub IO](https://geovany17.github.io/weatherApp/.)
