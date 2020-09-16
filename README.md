@@ -14,12 +14,10 @@ This is a Weather Dashboard application, built using HTML, CSS,Javascript,JQuery
 This project has been deployed to GitHub Pages.
 
 ### Demo for the deployed app
-![weatherApp demo](https://raw.githubusercontent.com/Geovany17/daySchedule/master/assets/WorkWeather%20Dashboard.gif)
 
-<<<<<<< HEAD
+
+
 ![weatherApp demo](https://github.com/Geovany17/weatherApp/blob/master/assets/Weather%20Dashboard.gif)
-=======
->>>>>>> b2ed26306585b6a4725a1daf55c33d7f0a67b004
 
 - [GitHub Repository](https://github.com/Geovany17/weatherApp)
 - [Deployed GitHub IO](https://geovany17.github.io/weatherApp/.)
