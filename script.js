@@ -1,3 +1,9 @@
+//Reference https://www.youtube.com/watch?v=zPplu-JfKO0
+//Reference https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/18125165#overview
+//Reference https://www.udemy.com/share/101XvUA0oddVpUQHw=/
+//Reference https://stackoverflow.com/
+//Reference Bootcamp Spot activities
+// With the Help Of A Tutor
 //==================================
 // Setting variables
 //==================================
@@ -74,6 +80,9 @@ $(document).ready(function () {
       var weatherIcon = results.weather[0].icon;
       var weatherIconURL = getWeatherIcon + weatherIcon + ".png";
 
+      //===============================================
+      //I Made This Step With the Help of a Tutor
+      //===============================================
       storeHistory(name);
 
       $("#city-name").text(name + " (" + date + ") ");
@@ -169,9 +178,9 @@ $(document).ready(function () {
           var forecastHumidity = forecastResults.list[i].main.humidity;
           var forecastIcon = forecastResults.list[i].weather[0].icon;
 
-          //==================================
-          // Pushing Attributes To The list
-          //==================================
+          //=========================================
+          // Pushing Forecast Attributes To The list
+          //=========================================
 
           forecastObj["list"] = {};
           forecastObj["list"]["date"] = forecastDate;

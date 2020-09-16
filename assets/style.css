@@ -1,8 +1,46 @@
+body {
+  background-image: url("https://images.unsplash.com/photo-1544766230-594734c916df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-weight: 800;
+}
+header {
+  text-align: center;
+  background-color: #3d6488;
+  font-family: "Open Sans Condensed", sans-serif;
+  color: white;
+}
+
+.col-md-12 {
+  background-color: #3d6488;
+}
+
 #search-input {
-  background-color: #ffffff;
+  background-color: white;
   padding: 20px;
+}
+
+#search-button {
+  background-color: #3d6488;
+  color: white;
+  font-family: "Open Sans Condensed", sans-serif;
+  border-radius: 2px;
 }
 
 #uv-index {
   padding: 5px;
+}
+
+.card-body {
+  background-color: #3d6488;
+  color: white;
+}
+
+#current-location-container {
+  background-color: gainsboro;
+  height: 100%;
+}
+
+.font-weight-bold {
+  color: black;
 }
